@@ -1,0 +1,68 @@
+<svg id="icon_snow_day" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.978" height="370.35" viewBox="0 0 270 250">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #b6d6fa;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="105.75" y="31" width="155.25" height="101.563" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="105.75" y="31" width="155.25" height="101.563" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU1LjI1IiBoZWlnaHQ9IjEwMS41NjMiIHZpZXdCb3g9IjAgMCAxNTUuMjUgMTAxLjU2MyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgb3BhY2l0eTogMC4xOwogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iNzcuNjI1IiB5MT0iMTAxLjU2MyIgeDI9Ijc3LjYyNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE1NS4yNSIgaGVpZ2h0PSIxMDEuNTYzIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" mode="overlay" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="-5" y="44" width="215" height="149" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="5" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.162"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="cloud" class="cls-1" d="M139.925,132.57h96.511a27.586,27.586,0,0,0,24.571-27.31c0-12.876-8.931-24.038-20.779-26.459-3.244-26.834-25.514-47.809-52.526-47.809A52.524,52.524,0,0,0,142.712,56.6c-0.231,0-.461-0.069-0.694-0.069-20.03,0-36.267,17.449-36.267,38.018,0,19.847,15.118,36.526,34.174,38.018"/>
+  <path id="cloud-2" data-name="cloud" class="cls-2" d="M51.168,175.846H160.72c20.127,0,36.522-17.183,36.522-37.6a37.528,37.528,0,0,0-26.715-36.222,28.15,28.15,0,0,0-40.689-24.585,43.821,43.821,0,0,0-82.427,4.434,46.981,46.981,0,0,0-41.4,46.848c0,25.434,19.467,47.127,45.158,47.127"/>
+  <circle id="snow" class="cls-3" cx="46.234" cy="228.406" r="12.484"/>
+  <circle id="snow-2" data-name="snow" class="cls-3" cx="212.531" cy="193.938" r="12.469"/>
+  <circle id="snow-3" data-name="snow" class="cls-3" cx="115.501" cy="207.875" r="6.938"/>
+  <circle id="snow-4" data-name="snow" class="cls-3" cx="172.359" cy="237.031" r="6.922"/>
+</svg>

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap&subset=latin-ext');
+
+@import "App";
+@import "WeatherIcons";
+@import "DateBuilder";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}

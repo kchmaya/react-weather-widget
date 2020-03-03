@@ -1,0 +1,61 @@
+<svg id="icon_broken_clouds_day" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.978" height="370.35" viewBox="0 0 270 250">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #b8c7d8;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="106.063" y="42" width="161.937" height="105.906" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="106.063" y="42" width="161.937" height="105.906" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTYxLjkzNyIgaGVpZ2h0PSIxMDUuOTA2IiB2aWV3Qm94PSIwIDAgMTYxLjkzNyAxMDUuOTA2Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjI7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI4MC45NjgiIHkxPSIxMDUuOTA2IiB4Mj0iODAuOTY4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTYxLjkzNyIgaGVpZ2h0PSIxMDUuOTA2Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" mode="overlay" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="-9" y="56" width="223" height="154" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="5" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.162"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="cloud" class="cls-1" d="M141.7,147.9H242.376a28.765,28.765,0,0,0,25.632-28.47c0-13.422-9.317-25.058-21.676-27.583-3.384-27.973-26.615-49.838-54.792-49.838a54.8,54.8,0,0,0-46.931,26.7c-0.241,0-.481-0.072-0.723-0.072-20.895,0-37.833,18.19-37.833,39.632,0,20.69,15.771,38.077,35.649,39.633"/>
+  <path id="cloud-2" data-name="cloud" class="cls-2" d="M49.117,193.012H163.394c21,0,38.1-17.912,38.1-39.2a39.122,39.122,0,0,0-27.867-37.759,29.367,29.367,0,0,0-42.443-25.629A45.722,45.722,0,0,0,45.2,95.048,48.986,48.986,0,0,0,2.01,143.885c0,26.513,20.307,49.127,47.106,49.127"/>
+</svg>

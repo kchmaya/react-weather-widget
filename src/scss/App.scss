@@ -1,0 +1,125 @@
+.weather-container {
+  width: 550px;
+  height: 300px;
+  background: linear-gradient(to top left, #3cc0fe 10%, #004cc2);
+  border-radius: 6px;
+  box-shadow: 0 60px 80px -20px rgba(#27a5fd, 0.4);
+  position: relative;
+  overflow: hidden;
+
+  .decoration {
+    position: absolute;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background: linear-gradient(330deg, rgba(#3cc0fe, 0.2) 40%, rgba(#004cc2, 0.6));
+    right: 270px;
+    top: -30px;
+  }
+
+  .search-box {
+    position: relative;
+    transition: all 1s;
+    width: 32px;
+    height: 32px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 1.5px solid #fff;
+    margin: 15px;
+
+    .search-bar {
+      width: 100%;;
+      height: 30px;
+      line-height: 30px;
+      outline: 0;
+      border: 0;
+      display: none;
+      font-size: 1em;
+      border-radius: 20px;
+      padding: 0 20px;
+    }
+
+    .search-btn {
+      position: absolute;
+      box-sizing: border-box;
+      padding: 5px;
+      width: 30px;
+      height: 30px;
+      top: 0;
+      right: 0;
+      border-radius: 50%;
+      color: #2e2d30;
+      text-align: center;
+      font-size: 1em;
+      transition: all 1s;
+    }
+
+    .search-btn::after {
+      content: url("../assets/search-solid.svg");
+    }
+  }
+
+  .search-box:hover {
+    width: 170px;
+    cursor: pointer;
+    background: #07051a;
+    color: #fff;
+  }
+
+  .search-box:hover .search-bar {
+    display: block;
+  }
+
+  .result-box {
+    position: relative;
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+
+    .result-info {
+      margin-right: 23px;
+      width: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: #fff;
+
+      .location {
+        display: flex;
+        position: absolute;
+        top: -15px;
+        font-size: 1.2rem;
+
+        .location-icon {
+          color: white;
+          width: 13px;
+          margin-right: 7px;
+          content: url("../assets/location.svg");
+        }
+      }
+
+      .temp {
+        font-size: 7.9rem;
+        margin-left: 15px;
+        text-shadow: 1px 1px 50px rgba(#0044B8, 0.3);
+        margin-top: 5px;
+
+        span {
+          font-weight: 300;
+          font-size: 4rem;
+          vertical-align: super;
+        }
+      }
+
+      .weather {
+        position: absolute;
+        top: 175px;
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.03rem;
+        text-transform: uppercase;
+      }
+    }
+  }
+}

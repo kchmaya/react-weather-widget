@@ -1,0 +1,42 @@
+.icon {
+  margin-left: 23px;
+
+  .icon-clear {
+    height: 180px;
+    content: url("../assets/weather-icons/sun.svg");
+  }
+
+  .icon-thunderstorm {
+    height: 180px;
+    content: url("../assets/weather-icons/thunderstorm.svg");
+  }
+
+  .icon-drizzle {
+    position: absolute;
+    box-sizing: border-box;
+    height: 180px;
+    content: url("../assets/weather-icons/shower.svg");
+  }
+
+  .icon-rain {
+    height: 180px;
+    content: url("../assets/weather-icons/rain.svg");
+  }
+
+  .icon-snow {
+    height: 170px;
+    content: url("../assets/weather-icons/snow.svg");
+  }
+
+  .icon-atmosphere {
+    height: 180px;
+    content: url("../assets/weather-icons/mist.svg");
+  }
+
+  .icon-clouds {
+    height: 180px;
+    content: url("../assets/weather-icons/clouds.svg");
+  }
+}
+
+

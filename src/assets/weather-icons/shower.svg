@@ -1,0 +1,68 @@
+<svg id="icon_shower_rain_day" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.978" height="370.35" viewBox="0 0 270 250">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #b8c7d8;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="107.531" y="31" width="156.469" height="102.719" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="107.531" y="31" width="156.469" height="102.719" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU2LjQ2OSIgaGVpZ2h0PSIxMDIuNzE5IiB2aWV3Qm94PSIwIDAgMTU2LjQ2OSAxMDIuNzE5Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjI7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI3OC4yMzQiIHkxPSIxMDIuNzE5IiB4Mj0iNzguMjM0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTU2LjQ2OSIgaGVpZ2h0PSIxMDIuNzE5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" mode="overlay" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="-4" y="44" width="216" height="151" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="5" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.162"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="cloud" class="cls-1" d="M141.975,133.721h97.268A27.862,27.862,0,0,0,264.007,106.1c0-13.022-9-24.31-20.942-26.76C239.8,52.2,217.351,30.992,190.127,30.992a52.9,52.9,0,0,0-45.343,25.9c-0.233,0-.464-0.069-0.7-0.069-20.188,0-36.552,17.647-36.552,38.449,0,20.072,15.237,36.94,34.442,38.449"/>
+  <path id="cloud-2" data-name="cloud" class="cls-2" d="M52.522,177.487H162.934c20.285,0,36.808-17.377,36.808-38.028a37.937,37.937,0,0,0-26.925-36.632A28.525,28.525,0,0,0,144.338,74.98a28.224,28.224,0,0,0-12.528,2.984,44.115,44.115,0,0,0-83.074,4.484A47.456,47.456,0,0,0,7.01,129.827c0,25.721,19.62,47.66,45.513,47.66"/>
+  <path id="drop" class="cls-3" d="M44.493,242.165c7.009,0,12.69-6.318,12.69-14.111s-12.69-25.4-12.69-25.4-12.691,17.6-12.691,25.4,5.682,14.111,12.691,14.111h0Z"/>
+  <path id="drop-2" data-name="drop" class="cls-3" d="M212.108,199.848c7.009,0,12.69-6.317,12.69-14.11s-12.69-25.4-12.69-25.4-12.691,17.607-12.691,25.4,5.682,14.11,12.691,14.11h0Z"/>
+  <path id="drop-3" data-name="drop" class="cls-3" d="M115.015,213.985a6.975,6.975,0,0,0,6.879-7.068c0-3.9-6.879-12.721-6.879-12.721s-6.878,8.818-6.878,12.721a6.975,6.975,0,0,0,6.878,7.068h0Z"/>
+  <path id="drop-4" data-name="drop" class="cls-3" d="M229.552,290.013a6.975,6.975,0,0,0,6.879-7.068c0-3.9-6.879-12.721-6.879-12.721s-6.879,8.818-6.879,12.721a6.975,6.975,0,0,0,6.879,7.068h0Z"/>
+</svg>
