@@ -1,20 +1,16 @@
 {
+  "manifest_version": 2,
   "short_name": "React Weather App",
   "name": "Chrome Extension React Weather App",
-  "version": "1.0",
-  "manifest_version": 2,
+  "version": "0.0.1",
   "browser_action": {
-    "default_popup": "index.html"
+    "default_popup": "index.html",
+    "default_title": "Weather",
+    "default_icon": "favicon.png"
   },
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "content_security_policy": "script-src 'self' 'sha256-uk+h8kxuR7BQzFtKB8XW5tGhPuTyYJRC4kTaaY7V94Y='; object-src 'self'",
+  "permissions": [
+  ]
 }
+
+
